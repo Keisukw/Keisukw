@@ -6,12 +6,12 @@
 
 <h1>Hi there, I am Sam, and I am learning programming 👋</h1>
 
-### 📚 I'm currently studying on Alura WebSite
-### 🎓 I have a background in computer technician, and I seek to improve my programming skills
-### 💻 I have experience in some languages, HTML, CSS, JavaScpript, Python, C#, C, React, Kotlin.
+### 📚 I'm currently studying systems analysis and development.
+### 🎓 I have a background in computer technician, and I seek to improve my programming skills.
+### 💻 I have experience in some languages, HTML, CSS, JavaScpript, Python, C#.
 ### 📧 If you want to talk to me, this is my email --> samarabccs@gmail.com
 ### 🏠 I live in AM - Brazil
-### 👀 curiosity, I programming since my 14 years
+### 👀 curiosity, no, I am not special.
 
 <br>
 

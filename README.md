@@ -7,11 +7,8 @@
 <h1>Hi there, I am Sam, and I am learning programming 👋</h1>
 
 ### 📚 I'm currently studying systems analysis and development.
-### 🎓 I have a background in computer technician, and I seek to improve my programming skills.
-### 💻 I have experience in some languages, HTML, CSS, JavaScpript, Python, C#.
 ### 📧 If you want to talk to me, this is my email --> samarabccs@gmail.com
 ### 🏠 I live in AM - Brazil
-### 👀 curiosity, no, I am not special.
 
 <br>
 

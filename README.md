@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Keisukw/Keisukw/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1>Hi there, I am Sam, and I am learning programming 👋</h1>
+<h1>Hi there, I am Sam, and I am programmer 👋</h1>
 
 ### 📚 I'm currently studying systems analysis and development.
 ### 📧 If you want to talk to me, this is my email --> samarabccs@gmail.com

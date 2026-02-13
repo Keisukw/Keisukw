@@ -36,9 +36,4 @@
 
 <br><br>
 
-<div style="display:flex; gap:12px; align-items:center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keisukw&layout=compact&theme=radical"
-       alt="iuricode" style="height:180px; object-fit:contain;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keisukw&theme=radical"
-       alt="card" style="height:180px; object-fit:contain;">
-</div>
+

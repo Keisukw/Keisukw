@@ -6,7 +6,8 @@
 
 <h1>Hi there, I am Sam, and I am programmer 👋</h1>
 
-### 📚 I'm currently studying systems analysis and development and computer science.
+### 🎓 I have a degree in systems analysis and development.
+### 📚 I'm currently studying computer science.
 ### 📧 If you want to talk to me, this is my email --> samarabccs@gmail.com
 ### 🏠 I live in AM - Brazil
 
